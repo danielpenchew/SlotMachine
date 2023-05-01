@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlotMachine", "SlotMachine\SlotMachine.csproj", "{2DD3734F-DCF7-46D3-9496-66A3B615F56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachine.UnitTests", "SlotMachine.UnitTests\SlotMachine.UnitTests.csproj", "{63F4866D-9557-4A53-BADA-8323A3CC9B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD3734F-DCF7-46D3-9496-66A3B615F56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD3734F-DCF7-46D3-9496-66A3B615F56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD3734F-DCF7-46D3-9496-66A3B615F56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD3734F-DCF7-46D3-9496-66A3B615F56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F4866D-9557-4A53-BADA-8323A3CC9B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F4866D-9557-4A53-BADA-8323A3CC9B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F4866D-9557-4A53-BADA-8323A3CC9B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F4866D-9557-4A53-BADA-8323A3CC9B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1126CB-C76A-42D2-8BDD-D5992C81073E}
+	EndGlobalSection
+EndGlobal
